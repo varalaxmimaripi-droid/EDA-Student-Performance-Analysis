@@ -152,6 +152,9 @@ This project demonstrates:
 - Dashboard Development
 
 ---
+## 🌐 Live Demo
+
+https://lovable.dev/preview/wMcJYgvm6hZAeQNyBnFOcVqXlmHijgAI
 
 👨‍💻 Author
 
